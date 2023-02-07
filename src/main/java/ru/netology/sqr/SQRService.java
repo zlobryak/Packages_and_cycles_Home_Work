@@ -1,4 +1,4 @@
-package ru.netology.javaqa.javaqamvn.servises;
+package ru.netology.sqr;
 
 public class SQRService {
 
@@ -6,9 +6,10 @@ public class SQRService {
         int x = 10;
         int counter = 0;
         for (int i = x; i <= 99; i++) {
-            if (minValue >= (i * i);{
-        }if (maxValue <= (i * i);{
-            counter++;
+            if (minValue <= (i * i)) {
+                if (maxValue >= (i * i)) {
+                    counter++;
+                }
             }
         }
         return counter;
