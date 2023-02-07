@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18048e29-f041-46fa-ace1-f04b3665238d" name="Changes" comment="Tests added." />
+    <list default="true" id="18048e29-f041-46fa-ace1-f04b3665238d" name="Changes" comment="README.md typo edited">
+      <change beforePath="$PROJECT_DIR$/src/test/resources/SQR.scv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/SQR.scv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,27 +180,26 @@
       <option name="project" value="LOCAL" />
       <updated>1675747835874</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="README.md typo edited">
+      <created>1675747903683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675747903683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Packages was changed to ru.netology.sqr" />
     <MESSAGE value="Import optimization" />
     <MESSAGE value="Tests added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tests added." />
+    <MESSAGE value="README.md typo edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md typo edited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/netology/sqr/SQRService.java</url>
-          <line>4</line>
-          <properties class="ru.netology.sqr.SQRService" method="calculateSQR">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ru/netology/sqr/SQRServiceTest.java</url>
           <line>6</line>
