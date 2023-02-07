@@ -1,8 +1,6 @@
 package ru.netology.sqr;
 
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
-import ru.netology.sqr.SQRService;
 
 public class SQRServiceTest {
     @ParameterizedTest
