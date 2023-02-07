@@ -1,1 +1,1 @@
-## THis is Packages and cycles homework for Netology
+## This is Packages and cycles homework for Netology
